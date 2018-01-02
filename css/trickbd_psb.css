@@ -1,0 +1,10 @@
+.trickbd_psb_spam_link{
+	display: inline-block;
+	margin-right: 10px;
+	padding: 5px;
+	text-decoration: none;
+	color: #333;
+}
+.trickbd_psb_spam_link:hover{
+	color: #000;
+}
